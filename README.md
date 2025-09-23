@@ -1,2 +1,2 @@
 # repository-basic
-repo for CE1
+just a repo
